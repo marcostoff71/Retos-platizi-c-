@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 34 Reto de numeros primos\bin\Debug\Reto 34 Reto de numeros primos.exe.config
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 34 Reto de numeros primos\bin\Debug\Reto 34 Reto de numeros primos.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 34 Reto de numeros primos\bin\Debug\Reto 34 Reto de numeros primos.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 34 Reto de numeros primos\obj\Debug\Reto 34 Reto de numeros primos.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 34 Reto de numeros primos\obj\Debug\Reto 34 Reto de numeros primos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 34 Reto de numeros primos\obj\Debug\Reto 34 Reto de numeros primos.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 34 Reto de numeros primos\obj\Debug\Reto 34 Reto de numeros primos.pdb

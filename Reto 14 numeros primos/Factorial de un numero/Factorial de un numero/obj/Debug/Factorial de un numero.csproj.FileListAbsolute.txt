@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 14 numeros primos\Factorial de un numero\Factorial de un numero\bin\Debug\Factorial de un numero.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 14 numeros primos\Factorial de un numero\Factorial de un numero\bin\Debug\Factorial de un numero.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 14 numeros primos\Factorial de un numero\Factorial de un numero\bin\Debug\Factorial de un numero.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 14 numeros primos\Factorial de un numero\Factorial de un numero\obj\Debug\Factorial de un numero.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 14 numeros primos\Factorial de un numero\Factorial de un numero\obj\Debug\Factorial de un numero.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 14 numeros primos\Factorial de un numero\Factorial de un numero\obj\Debug\Factorial de un numero.pdb

@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 18 Memoria parte 1\1y0\1y0\bin\Debug\1y0.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 18 Memoria parte 1\1y0\1y0\bin\Debug\1y0.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 18 Memoria parte 1\1y0\1y0\bin\Debug\1y0.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 18 Memoria parte 1\1y0\1y0\obj\Debug\1y0.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 18 Memoria parte 1\1y0\1y0\obj\Debug\1y0.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 18 Memoria parte 1\1y0\1y0\obj\Debug\1y0.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 38 Avanzando nuestro juego de datos\Reto 38 Avanzando nuestro juego de datos\bin\Debug\Reto 38 Avanzando nuestro juego de datos.exe.config
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 38 Avanzando nuestro juego de datos\Reto 38 Avanzando nuestro juego de datos\bin\Debug\Reto 38 Avanzando nuestro juego de datos.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 38 Avanzando nuestro juego de datos\Reto 38 Avanzando nuestro juego de datos\bin\Debug\Reto 38 Avanzando nuestro juego de datos.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 38 Avanzando nuestro juego de datos\Reto 38 Avanzando nuestro juego de datos\obj\Debug\Reto 38 Avanzando nuestro juego de datos.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 38 Avanzando nuestro juego de datos\Reto 38 Avanzando nuestro juego de datos\obj\Debug\Reto 38 Avanzando nuestro juego de datos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 38 Avanzando nuestro juego de datos\Reto 38 Avanzando nuestro juego de datos\obj\Debug\Reto 38 Avanzando nuestro juego de datos.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 38 Avanzando nuestro juego de datos\Reto 38 Avanzando nuestro juego de datos\obj\Debug\Reto 38 Avanzando nuestro juego de datos.pdb

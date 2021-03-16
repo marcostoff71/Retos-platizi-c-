@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\bin\Debug\Codigo morse.exe.config
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\bin\Debug\Codigo morse.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\bin\Debug\Codigo morse.pdb
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\obj\Debug\Codigo morse.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\obj\Debug\Codigo morse.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\obj\Debug\Codigo morse.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\obj\Debug\Codigo morse.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\bin\Debug\Codigo morse.exe.config
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\bin\Debug\Codigo morse.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\bin\Debug\Codigo morse.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\obj\Debug\Codigo morse.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\obj\Debug\Codigo morse.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\obj\Debug\Codigo morse.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 29 - 30 codigo morse y telefono\Codigo morse\Codigo morse\obj\Debug\Codigo morse.pdb

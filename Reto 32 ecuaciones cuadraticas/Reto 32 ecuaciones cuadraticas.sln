@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reto 32 ecuaciones cuadraticas", "Reto 32 ecuaciones cuadraticas.csproj", "{32A872B4-BFDA-4E81-8420-9FE0746B918C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A872B4-BFDA-4E81-8420-9FE0746B918C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A872B4-BFDA-4E81-8420-9FE0746B918C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A872B4-BFDA-4E81-8420-9FE0746B918C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A872B4-BFDA-4E81-8420-9FE0746B918C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBA90607-9A07-4746-B98B-D0DC776F9480}
+	EndGlobalSection
+EndGlobal

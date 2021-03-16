@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 35 tiro de n dados de 6 caras\Reto 35 tiro de n dados de 6 caras\bin\Debug\Reto 35 tiro de n dados de 6 caras.exe.config
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 35 tiro de n dados de 6 caras\Reto 35 tiro de n dados de 6 caras\bin\Debug\Reto 35 tiro de n dados de 6 caras.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 35 tiro de n dados de 6 caras\Reto 35 tiro de n dados de 6 caras\bin\Debug\Reto 35 tiro de n dados de 6 caras.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 35 tiro de n dados de 6 caras\Reto 35 tiro de n dados de 6 caras\obj\Debug\Reto 35 tiro de n dados de 6 caras.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 35 tiro de n dados de 6 caras\Reto 35 tiro de n dados de 6 caras\obj\Debug\Reto 35 tiro de n dados de 6 caras.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 35 tiro de n dados de 6 caras\Reto 35 tiro de n dados de 6 caras\obj\Debug\Reto 35 tiro de n dados de 6 caras.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 35 tiro de n dados de 6 caras\Reto 35 tiro de n dados de 6 caras\obj\Debug\Reto 35 tiro de n dados de 6 caras.pdb

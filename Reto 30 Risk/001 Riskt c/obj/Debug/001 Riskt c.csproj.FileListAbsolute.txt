@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 30 Risk\001 Riskt c\bin\Debug\001 Riskt c.exe.config
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 30 Risk\001 Riskt c\bin\Debug\001 Riskt c.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 30 Risk\001 Riskt c\bin\Debug\001 Riskt c.pdb
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 30 Risk\001 Riskt c\obj\Debug\001 Riskt c.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 30 Risk\001 Riskt c\obj\Debug\001 Riskt c.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 30 Risk\001 Riskt c\obj\Debug\001 Riskt c.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 30 Risk\001 Riskt c\obj\Debug\001 Riskt c.pdb

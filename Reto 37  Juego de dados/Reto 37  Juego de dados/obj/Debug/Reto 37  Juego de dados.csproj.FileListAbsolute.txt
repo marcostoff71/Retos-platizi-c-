@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 37  Juego de dados\Reto 37  Juego de dados\bin\Debug\Reto 37  Juego de dados.exe.config
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 37  Juego de dados\Reto 37  Juego de dados\bin\Debug\Reto 37  Juego de dados.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 37  Juego de dados\Reto 37  Juego de dados\bin\Debug\Reto 37  Juego de dados.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 37  Juego de dados\Reto 37  Juego de dados\obj\Debug\Reto 37  Juego de dados.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 37  Juego de dados\Reto 37  Juego de dados\obj\Debug\Reto 37  Juego de dados.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 37  Juego de dados\Reto 37  Juego de dados\obj\Debug\Reto 37  Juego de dados.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 37  Juego de dados\Reto 37  Juego de dados\obj\Debug\Reto 37  Juego de dados.pdb

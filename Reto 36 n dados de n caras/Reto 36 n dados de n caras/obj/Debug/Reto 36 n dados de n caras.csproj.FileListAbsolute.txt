@@ -1,0 +1,6 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 36 n dados de n caras\Reto 36 n dados de n caras\bin\Debug\Reto 36 n dados de n caras.exe.config
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 36 n dados de n caras\Reto 36 n dados de n caras\bin\Debug\Reto 36 n dados de n caras.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 36 n dados de n caras\Reto 36 n dados de n caras\bin\Debug\Reto 36 n dados de n caras.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 36 n dados de n caras\Reto 36 n dados de n caras\obj\Debug\Reto 36 n dados de n caras.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 36 n dados de n caras\Reto 36 n dados de n caras\obj\Debug\Reto 36 n dados de n caras.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 36 n dados de n caras\Reto 36 n dados de n caras\obj\Debug\Reto 36 n dados de n caras.pdb

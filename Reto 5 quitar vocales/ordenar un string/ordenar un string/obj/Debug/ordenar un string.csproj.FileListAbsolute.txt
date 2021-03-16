@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\ordenar un string\ordenar un string\bin\Debug\ordenar un string.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\ordenar un string\ordenar un string\bin\Debug\ordenar un string.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\ordenar un string\ordenar un string\bin\Debug\ordenar un string.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\ordenar un string\ordenar un string\obj\Debug\ordenar un string.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\ordenar un string\ordenar un string\obj\Debug\ordenar un string.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\ordenar un string\ordenar un string\obj\Debug\ordenar un string.pdb
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 5 quitar vocales\ordenar un string\ordenar un string\bin\Debug\ordenar un string.exe.config
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 5 quitar vocales\ordenar un string\ordenar un string\bin\Debug\ordenar un string.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 5 quitar vocales\ordenar un string\ordenar un string\bin\Debug\ordenar un string.pdb
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 5 quitar vocales\ordenar un string\ordenar un string\obj\Debug\ordenar un string.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 5 quitar vocales\ordenar un string\ordenar un string\obj\Debug\ordenar un string.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 5 quitar vocales\ordenar un string\ordenar un string\obj\Debug\ordenar un string.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 5 quitar vocales\ordenar un string\ordenar un string\obj\Debug\ordenar un string.pdb

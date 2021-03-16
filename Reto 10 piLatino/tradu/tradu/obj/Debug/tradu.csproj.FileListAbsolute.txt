@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 10 piLatino\tradu\tradu\bin\Debug\tradu.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 10 piLatino\tradu\tradu\bin\Debug\tradu.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 10 piLatino\tradu\tradu\bin\Debug\tradu.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 10 piLatino\tradu\tradu\obj\Debug\tradu.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 10 piLatino\tradu\tradu\obj\Debug\tradu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 10 piLatino\tradu\tradu\obj\Debug\tradu.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 10 piLatino\tradu\tradu\obj\Debug\tradu.pdb

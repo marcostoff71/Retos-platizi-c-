@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 18 Memoria parte 1\contragene-002\contragene-002\bin\Debug\contragene-002.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 18 Memoria parte 1\contragene-002\contragene-002\bin\Debug\contragene-002.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 18 Memoria parte 1\contragene-002\contragene-002\bin\Debug\contragene-002.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 18 Memoria parte 1\contragene-002\contragene-002\obj\Debug\contragene-002.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 18 Memoria parte 1\contragene-002\contragene-002\obj\Debug\contragene-002.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 18 Memoria parte 1\contragene-002\contragene-002\obj\Debug\contragene-002.pdb

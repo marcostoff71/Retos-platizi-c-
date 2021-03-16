@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 43 Suma recursiva\bin\Debug\Reto 43 Suma recursiva.exe.config
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 43 Suma recursiva\bin\Debug\Reto 43 Suma recursiva.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 43 Suma recursiva\bin\Debug\Reto 43 Suma recursiva.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 43 Suma recursiva\obj\Debug\Reto 43 Suma recursiva.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 43 Suma recursiva\obj\Debug\Reto 43 Suma recursiva.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 43 Suma recursiva\obj\Debug\Reto 43 Suma recursiva.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 43 Suma recursiva\obj\Debug\Reto 43 Suma recursiva.pdb

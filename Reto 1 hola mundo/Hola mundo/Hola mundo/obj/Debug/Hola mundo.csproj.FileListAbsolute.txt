@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 1 hola mundo\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 1 hola mundo\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 1 hola mundo\Hola mundo\Hola mundo\bin\Debug\Hola mundo.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 1 hola mundo\Hola mundo\Hola mundo\obj\Debug\Hola mundo.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 1 hola mundo\Hola mundo\Hola mundo\obj\Debug\Hola mundo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 1 hola mundo\Hola mundo\Hola mundo\obj\Debug\Hola mundo.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 1 hola mundo\Hola mundo\Hola mundo\obj\Debug\Hola mundo.pdb

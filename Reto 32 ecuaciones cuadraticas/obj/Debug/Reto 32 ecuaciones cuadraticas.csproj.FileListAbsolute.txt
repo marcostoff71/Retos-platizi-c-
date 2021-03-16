@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 32 ecuaciones cuadraticas\bin\Debug\Reto 32 ecuaciones cuadraticas.exe.config
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 32 ecuaciones cuadraticas\bin\Debug\Reto 32 ecuaciones cuadraticas.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 32 ecuaciones cuadraticas\bin\Debug\Reto 32 ecuaciones cuadraticas.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 32 ecuaciones cuadraticas\obj\Debug\Reto 32 ecuaciones cuadraticas.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 32 ecuaciones cuadraticas\obj\Debug\Reto 32 ecuaciones cuadraticas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 32 ecuaciones cuadraticas\obj\Debug\Reto 32 ecuaciones cuadraticas.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 32 ecuaciones cuadraticas\obj\Debug\Reto 32 ecuaciones cuadraticas.pdb

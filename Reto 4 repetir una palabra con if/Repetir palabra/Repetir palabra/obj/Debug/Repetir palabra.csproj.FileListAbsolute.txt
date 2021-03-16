@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 4 repetir una palabra con if\Repetir palabra\Repetir palabra\bin\Debug\Repetir palabra.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 4 repetir una palabra con if\Repetir palabra\Repetir palabra\bin\Debug\Repetir palabra.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 4 repetir una palabra con if\Repetir palabra\Repetir palabra\bin\Debug\Repetir palabra.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 4 repetir una palabra con if\Repetir palabra\Repetir palabra\obj\Debug\Repetir palabra.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 4 repetir una palabra con if\Repetir palabra\Repetir palabra\obj\Debug\Repetir palabra.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 4 repetir una palabra con if\Repetir palabra\Repetir palabra\obj\Debug\Repetir palabra.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 4 repetir una palabra con if\Repetir palabra\Repetir palabra\obj\Debug\Repetir palabra.pdb

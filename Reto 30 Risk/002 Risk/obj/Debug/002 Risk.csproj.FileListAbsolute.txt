@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 30 Risk\002 Risk\bin\Debug\002 Risk.exe.config
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 30 Risk\002 Risk\bin\Debug\002 Risk.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 30 Risk\002 Risk\bin\Debug\002 Risk.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 30 Risk\002 Risk\obj\Debug\002 Risk.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 30 Risk\002 Risk\obj\Debug\002 Risk.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 30 Risk\002 Risk\obj\Debug\002 Risk.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 30 Risk\002 Risk\obj\Debug\002 Risk.pdb

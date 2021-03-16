@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 33 fibonacci de 10000\bin\Debug\Reto 33 fibonacci de 10000.exe.config
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 33 fibonacci de 10000\bin\Debug\Reto 33 fibonacci de 10000.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 33 fibonacci de 10000\bin\Debug\Reto 33 fibonacci de 10000.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 33 fibonacci de 10000\obj\Debug\Reto 33 fibonacci de 10000.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 33 fibonacci de 10000\obj\Debug\Reto 33 fibonacci de 10000.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 33 fibonacci de 10000\obj\Debug\Reto 33 fibonacci de 10000.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 33 fibonacci de 10000\obj\Debug\Reto 33 fibonacci de 10000.csprojAssemblyReference.cache

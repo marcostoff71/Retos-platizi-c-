@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 14 numeros primos\Numeros primos\Numeros primos\bin\Debug\Numeros primos.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 14 numeros primos\Numeros primos\Numeros primos\bin\Debug\Numeros primos.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 14 numeros primos\Numeros primos\Numeros primos\bin\Debug\Numeros primos.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 14 numeros primos\Numeros primos\Numeros primos\obj\Debug\Numeros primos.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 14 numeros primos\Numeros primos\Numeros primos\obj\Debug\Numeros primos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 14 numeros primos\Numeros primos\Numeros primos\obj\Debug\Numeros primos.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 14 numeros primos\Numeros primos\Numeros primos\obj\Debug\Numeros primos.pdb

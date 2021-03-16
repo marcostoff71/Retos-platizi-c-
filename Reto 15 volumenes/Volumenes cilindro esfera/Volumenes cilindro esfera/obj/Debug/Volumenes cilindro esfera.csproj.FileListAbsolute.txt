@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 15 volumenes\Volumenes cilindro esfera\Volumenes cilindro esfera\bin\Debug\Volumenes cilindro esfera.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 15 volumenes\Volumenes cilindro esfera\Volumenes cilindro esfera\bin\Debug\Volumenes cilindro esfera.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 15 volumenes\Volumenes cilindro esfera\Volumenes cilindro esfera\bin\Debug\Volumenes cilindro esfera.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 15 volumenes\Volumenes cilindro esfera\Volumenes cilindro esfera\obj\Debug\Volumenes cilindro esfera.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 15 volumenes\Volumenes cilindro esfera\Volumenes cilindro esfera\obj\Debug\Volumenes cilindro esfera.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 15 volumenes\Volumenes cilindro esfera\Volumenes cilindro esfera\obj\Debug\Volumenes cilindro esfera.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 15 volumenes\Volumenes cilindro esfera\Volumenes cilindro esfera\obj\Debug\Volumenes cilindro esfera.pdb

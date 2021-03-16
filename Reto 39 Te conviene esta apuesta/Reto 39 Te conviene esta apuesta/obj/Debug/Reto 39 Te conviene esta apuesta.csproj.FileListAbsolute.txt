@@ -1,0 +1,6 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 39 Te conviene esta apuesta\Reto 39 Te conviene esta apuesta\bin\Debug\Reto 39 Te conviene esta apuesta.exe.config
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 39 Te conviene esta apuesta\Reto 39 Te conviene esta apuesta\bin\Debug\Reto 39 Te conviene esta apuesta.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 39 Te conviene esta apuesta\Reto 39 Te conviene esta apuesta\bin\Debug\Reto 39 Te conviene esta apuesta.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 39 Te conviene esta apuesta\Reto 39 Te conviene esta apuesta\obj\Debug\Reto 39 Te conviene esta apuesta.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 39 Te conviene esta apuesta\Reto 39 Te conviene esta apuesta\obj\Debug\Reto 39 Te conviene esta apuesta.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 39 Te conviene esta apuesta\Reto 39 Te conviene esta apuesta\obj\Debug\Reto 39 Te conviene esta apuesta.pdb

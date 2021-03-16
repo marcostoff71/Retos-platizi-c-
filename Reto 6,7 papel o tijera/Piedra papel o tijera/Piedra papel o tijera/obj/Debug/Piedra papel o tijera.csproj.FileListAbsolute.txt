@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Piedra papel o tijera\Piedra papel o tijera\bin\Debug\Piedra papel o tijera.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Piedra papel o tijera\Piedra papel o tijera\bin\Debug\Piedra papel o tijera.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Piedra papel o tijera\Piedra papel o tijera\bin\Debug\Piedra papel o tijera.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Piedra papel o tijera\Piedra papel o tijera\obj\Debug\Piedra papel o tijera.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Piedra papel o tijera\Piedra papel o tijera\obj\Debug\Piedra papel o tijera.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Piedra papel o tijera\Piedra papel o tijera\obj\Debug\Piedra papel o tijera.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Piedra papel o tijera\Piedra papel o tijera\obj\Debug\Piedra papel o tijera.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Quitar vocales\Quitar vocales\bin\Debug\Quitar vocales.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Quitar vocales\Quitar vocales\bin\Debug\Quitar vocales.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Quitar vocales\Quitar vocales\bin\Debug\Quitar vocales.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Quitar vocales\Quitar vocales\obj\Debug\Quitar vocales.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Quitar vocales\Quitar vocales\obj\Debug\Quitar vocales.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Quitar vocales\Quitar vocales\obj\Debug\Quitar vocales.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Quitar vocales\Quitar vocales\obj\Debug\Quitar vocales.pdb

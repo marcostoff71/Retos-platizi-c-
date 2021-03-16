@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 12 Proximo cumpleaños\Proximo cumpleaños\Proximo cumpleaños\bin\Debug\Proximo cumpleaños.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 12 Proximo cumpleaños\Proximo cumpleaños\Proximo cumpleaños\bin\Debug\Proximo cumpleaños.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 12 Proximo cumpleaños\Proximo cumpleaños\Proximo cumpleaños\bin\Debug\Proximo cumpleaños.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 12 Proximo cumpleaños\Proximo cumpleaños\Proximo cumpleaños\obj\Debug\Proximo cumpleaños.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 12 Proximo cumpleaños\Proximo cumpleaños\Proximo cumpleaños\obj\Debug\Proximo cumpleaños.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 12 Proximo cumpleaños\Proximo cumpleaños\Proximo cumpleaños\obj\Debug\Proximo cumpleaños.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 12 Proximo cumpleaños\Proximo cumpleaños\Proximo cumpleaños\obj\Debug\Proximo cumpleaños.pdb

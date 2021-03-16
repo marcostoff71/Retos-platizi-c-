@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 16 Calculadora V2\calculadora v2\calculadora v2\bin\Debug\calculadora v2.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 16 Calculadora V2\calculadora v2\calculadora v2\bin\Debug\calculadora v2.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 16 Calculadora V2\calculadora v2\calculadora v2\bin\Debug\calculadora v2.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 16 Calculadora V2\calculadora v2\calculadora v2\obj\Debug\calculadora v2.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 16 Calculadora V2\calculadora v2\calculadora v2\obj\Debug\calculadora v2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 16 Calculadora V2\calculadora v2\calculadora v2\obj\Debug\calculadora v2.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 16 Calculadora V2\calculadora v2\calculadora v2\obj\Debug\calculadora v2.pdb

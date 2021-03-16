@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\bin\Debug\Ordenar numeos.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\bin\Debug\Ordenar numeos.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\bin\Debug\Ordenar numeos.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\obj\Debug\Ordenar numeos.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\obj\Debug\Ordenar numeos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\obj\Debug\Ordenar numeos.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\obj\Debug\Ordenar numeos.pdb
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\bin\Debug\Ordenar numeos.exe.config
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\bin\Debug\Ordenar numeos.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\bin\Debug\Ordenar numeos.pdb
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\obj\Debug\Ordenar numeos.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\obj\Debug\Ordenar numeos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\obj\Debug\Ordenar numeos.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\Ordenar numeos\Ordenar numeos\obj\Debug\Ordenar numeos.pdb

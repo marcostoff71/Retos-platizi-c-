@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Invertir texto\Invertir texto\bin\Debug\Invertir texto.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Invertir texto\Invertir texto\bin\Debug\Invertir texto.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Invertir texto\Invertir texto\bin\Debug\Invertir texto.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Invertir texto\Invertir texto\obj\Debug\Invertir texto.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Invertir texto\Invertir texto\obj\Debug\Invertir texto.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Invertir texto\Invertir texto\obj\Debug\Invertir texto.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 5 quitar vocales\Invertir texto\Invertir texto\obj\Debug\Invertir texto.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 3 Reloj\Convertir a segundos\Convertir a segundos\bin\Debug\Convertir a segundos.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 3 Reloj\Convertir a segundos\Convertir a segundos\bin\Debug\Convertir a segundos.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 3 Reloj\Convertir a segundos\Convertir a segundos\bin\Debug\Convertir a segundos.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 3 Reloj\Convertir a segundos\Convertir a segundos\obj\Debug\Convertir a segundos.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 3 Reloj\Convertir a segundos\Convertir a segundos\obj\Debug\Convertir a segundos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 3 Reloj\Convertir a segundos\Convertir a segundos\obj\Debug\Convertir a segundos.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 3 Reloj\Convertir a segundos\Convertir a segundos\obj\Debug\Convertir a segundos.pdb

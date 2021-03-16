@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 2 area de un triangulo\Area de un triangulo\Area de un triangulo\bin\Debug\Area de un triangulo.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 2 area de un triangulo\Area de un triangulo\Area de un triangulo\bin\Debug\Area de un triangulo.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 2 area de un triangulo\Area de un triangulo\Area de un triangulo\bin\Debug\Area de un triangulo.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 2 area de un triangulo\Area de un triangulo\Area de un triangulo\obj\Debug\Area de un triangulo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 2 area de un triangulo\Area de un triangulo\Area de un triangulo\obj\Debug\Area de un triangulo.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 2 area de un triangulo\Area de un triangulo\Area de un triangulo\obj\Debug\Area de un triangulo.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 13 Calculadora de propina\Calculadora de propina\Calculadora de propina\bin\Debug\Calculadora de propina.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 13 Calculadora de propina\Calculadora de propina\Calculadora de propina\bin\Debug\Calculadora de propina.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 13 Calculadora de propina\Calculadora de propina\Calculadora de propina\bin\Debug\Calculadora de propina.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 13 Calculadora de propina\Calculadora de propina\Calculadora de propina\obj\Debug\Calculadora de propina.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 13 Calculadora de propina\Calculadora de propina\Calculadora de propina\obj\Debug\Calculadora de propina.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 13 Calculadora de propina\Calculadora de propina\Calculadora de propina\obj\Debug\Calculadora de propina.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 13 Calculadora de propina\Calculadora de propina\Calculadora de propina\obj\Debug\Calculadora de propina.pdb

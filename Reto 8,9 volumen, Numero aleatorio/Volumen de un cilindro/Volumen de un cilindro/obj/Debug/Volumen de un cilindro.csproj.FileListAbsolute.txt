@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 8,9 volumen, Numero aleatorio\Volumen de un cilindro\Volumen de un cilindro\bin\Debug\Volumen de un cilindro.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 8,9 volumen, Numero aleatorio\Volumen de un cilindro\Volumen de un cilindro\bin\Debug\Volumen de un cilindro.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 8,9 volumen, Numero aleatorio\Volumen de un cilindro\Volumen de un cilindro\bin\Debug\Volumen de un cilindro.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 8,9 volumen, Numero aleatorio\Volumen de un cilindro\Volumen de un cilindro\obj\Debug\Volumen de un cilindro.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 8,9 volumen, Numero aleatorio\Volumen de un cilindro\Volumen de un cilindro\obj\Debug\Volumen de un cilindro.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 8,9 volumen, Numero aleatorio\Volumen de un cilindro\Volumen de un cilindro\obj\Debug\Volumen de un cilindro.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 8,9 volumen, Numero aleatorio\Volumen de un cilindro\Volumen de un cilindro\obj\Debug\Volumen de un cilindro.pdb

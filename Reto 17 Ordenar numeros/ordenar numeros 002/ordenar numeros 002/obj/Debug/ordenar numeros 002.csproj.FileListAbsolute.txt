@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\ordenar numeros 002\ordenar numeros 002\bin\Debug\ordenar numeros 002.exe.config
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\ordenar numeros 002\ordenar numeros 002\bin\Debug\ordenar numeros 002.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\ordenar numeros 002\ordenar numeros 002\bin\Debug\ordenar numeros 002.pdb
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\ordenar numeros 002\ordenar numeros 002\obj\Debug\ordenar numeros 002.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\ordenar numeros 002\ordenar numeros 002\obj\Debug\ordenar numeros 002.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\ordenar numeros 002\ordenar numeros 002\obj\Debug\ordenar numeros 002.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 17 Ordenar numeros\ordenar numeros 002\ordenar numeros 002\obj\Debug\ordenar numeros 002.pdb

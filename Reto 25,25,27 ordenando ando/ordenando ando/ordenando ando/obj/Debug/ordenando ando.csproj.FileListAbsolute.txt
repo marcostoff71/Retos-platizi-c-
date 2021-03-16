@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 25,25,27 ordenando ando\ordenando ando\ordenando ando\bin\Debug\ordenando ando.exe.config
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 25,25,27 ordenando ando\ordenando ando\ordenando ando\bin\Debug\ordenando ando.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 25,25,27 ordenando ando\ordenando ando\ordenando ando\bin\Debug\ordenando ando.pdb
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 25,25,27 ordenando ando\ordenando ando\ordenando ando\obj\Debug\ordenando ando.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 25,25,27 ordenando ando\ordenando ando\ordenando ando\obj\Debug\ordenando ando.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 25,25,27 ordenando ando\ordenando ando\ordenando ando\obj\Debug\ordenando ando.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 25,25,27 ordenando ando\ordenando ando\ordenando ando\obj\Debug\ordenando ando.pdb

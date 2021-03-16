@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\lenovo\source\repos\Marco\Retos platzi\Reto 6,7 papel o tijera\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

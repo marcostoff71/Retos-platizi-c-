@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reto 34 Reto de numeros primos", "Reto 34 Reto de numeros primos.csproj", "{E3F28726-ECB5-4F2F-9373-46938BCBF80C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3F28726-ECB5-4F2F-9373-46938BCBF80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F28726-ECB5-4F2F-9373-46938BCBF80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F28726-ECB5-4F2F-9373-46938BCBF80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F28726-ECB5-4F2F-9373-46938BCBF80C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EF2D547-4DC0-4481-A8E9-46711835313A}
+	EndGlobalSection
+EndGlobal

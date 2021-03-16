@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 22 cuanto vas ahorrar con datos\Cuanto vas a ahorrar\Cuanto vas a ahorrar\bin\Debug\Cuanto vas a ahorrar.exe.config
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 22 cuanto vas ahorrar con datos\Cuanto vas a ahorrar\Cuanto vas a ahorrar\bin\Debug\Cuanto vas a ahorrar.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 22 cuanto vas ahorrar con datos\Cuanto vas a ahorrar\Cuanto vas a ahorrar\bin\Debug\Cuanto vas a ahorrar.pdb
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 22 cuanto vas ahorrar con datos\Cuanto vas a ahorrar\Cuanto vas a ahorrar\obj\Debug\Cuanto vas a ahorrar.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 22 cuanto vas ahorrar con datos\Cuanto vas a ahorrar\Cuanto vas a ahorrar\obj\Debug\Cuanto vas a ahorrar.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 22 cuanto vas ahorrar con datos\Cuanto vas a ahorrar\Cuanto vas a ahorrar\obj\Debug\Cuanto vas a ahorrar.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 22 cuanto vas ahorrar con datos\Cuanto vas a ahorrar\Cuanto vas a ahorrar\obj\Debug\Cuanto vas a ahorrar.pdb

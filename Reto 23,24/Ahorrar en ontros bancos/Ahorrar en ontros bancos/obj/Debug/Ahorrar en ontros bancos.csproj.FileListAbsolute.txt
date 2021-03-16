@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 23,24\Ahorrar en ontros bancos\Ahorrar en ontros bancos\bin\Debug\Ahorrar en ontros bancos.exe.config
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 23,24\Ahorrar en ontros bancos\Ahorrar en ontros bancos\bin\Debug\Ahorrar en ontros bancos.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 23,24\Ahorrar en ontros bancos\Ahorrar en ontros bancos\bin\Debug\Ahorrar en ontros bancos.pdb
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 23,24\Ahorrar en ontros bancos\Ahorrar en ontros bancos\obj\Debug\Ahorrar en ontros bancos.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 23,24\Ahorrar en ontros bancos\Ahorrar en ontros bancos\obj\Debug\Ahorrar en ontros bancos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 23,24\Ahorrar en ontros bancos\Ahorrar en ontros bancos\obj\Debug\Ahorrar en ontros bancos.exe
+C:\Users\lenovo\source\2020\Marco\Retos platzi\Reto 23,24\Ahorrar en ontros bancos\Ahorrar en ontros bancos\obj\Debug\Ahorrar en ontros bancos.pdb

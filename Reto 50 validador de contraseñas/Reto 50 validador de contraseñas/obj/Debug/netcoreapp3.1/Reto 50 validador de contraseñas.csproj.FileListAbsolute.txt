@@ -1,0 +1,13 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 50 validador de contraseñas\Reto 50 validador de contraseñas\bin\Debug\netcoreapp3.1\Reto 50 validador de contraseñas.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 50 validador de contraseñas\Reto 50 validador de contraseñas\bin\Debug\netcoreapp3.1\Reto 50 validador de contraseñas.deps.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 50 validador de contraseñas\Reto 50 validador de contraseñas\bin\Debug\netcoreapp3.1\Reto 50 validador de contraseñas.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 50 validador de contraseñas\Reto 50 validador de contraseñas\bin\Debug\netcoreapp3.1\Reto 50 validador de contraseñas.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 50 validador de contraseñas\Reto 50 validador de contraseñas\bin\Debug\netcoreapp3.1\Reto 50 validador de contraseñas.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 50 validador de contraseñas\Reto 50 validador de contraseñas\bin\Debug\netcoreapp3.1\Reto 50 validador de contraseñas.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 50 validador de contraseñas\Reto 50 validador de contraseñas\obj\Debug\netcoreapp3.1\Reto 50 validador de contraseñas.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 50 validador de contraseñas\Reto 50 validador de contraseñas\obj\Debug\netcoreapp3.1\Reto 50 validador de contraseñas.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 50 validador de contraseñas\Reto 50 validador de contraseñas\obj\Debug\netcoreapp3.1\Reto 50 validador de contraseñas.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 50 validador de contraseñas\Reto 50 validador de contraseñas\obj\Debug\netcoreapp3.1\Reto 50 validador de contraseñas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 50 validador de contraseñas\Reto 50 validador de contraseñas\obj\Debug\netcoreapp3.1\Reto 50 validador de contraseñas.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 50 validador de contraseñas\Reto 50 validador de contraseñas\obj\Debug\netcoreapp3.1\Reto 50 validador de contraseñas.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 50 validador de contraseñas\Reto 50 validador de contraseñas\obj\Debug\netcoreapp3.1\Reto 50 validador de contraseñas.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 48 Blackjated\Reto 48\Reto 48\bin\Debug\netcoreapp3.1\Reto 48.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 48 Blackjated\Reto 48\Reto 48\bin\Debug\netcoreapp3.1\Reto 48.deps.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 48 Blackjated\Reto 48\Reto 48\bin\Debug\netcoreapp3.1\Reto 48.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 48 Blackjated\Reto 48\Reto 48\bin\Debug\netcoreapp3.1\Reto 48.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 48 Blackjated\Reto 48\Reto 48\bin\Debug\netcoreapp3.1\Reto 48.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 48 Blackjated\Reto 48\Reto 48\bin\Debug\netcoreapp3.1\Reto 48.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 48 Blackjated\Reto 48\Reto 48\obj\Debug\netcoreapp3.1\Reto 48.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 48 Blackjated\Reto 48\Reto 48\obj\Debug\netcoreapp3.1\Reto 48.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 48 Blackjated\Reto 48\Reto 48\obj\Debug\netcoreapp3.1\Reto 48.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 48 Blackjated\Reto 48\Reto 48\obj\Debug\netcoreapp3.1\Reto 48.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 48 Blackjated\Reto 48\Reto 48\obj\Debug\netcoreapp3.1\Reto 48.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 48 Blackjated\Reto 48\Reto 48\obj\Debug\netcoreapp3.1\Reto 48.genruntimeconfig.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 48 Blackjated\Reto 48\Reto 48\obj\Debug\netcoreapp3.1\Reto 48.csprojAssemblyReference.cache

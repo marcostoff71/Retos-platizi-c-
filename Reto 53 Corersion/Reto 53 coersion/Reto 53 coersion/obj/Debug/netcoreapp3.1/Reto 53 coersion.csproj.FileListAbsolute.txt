@@ -1,0 +1,12 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 53 Corersion\Reto 53 coersion\Reto 53 coersion\bin\Debug\netcoreapp3.1\Reto 53 coersion.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 53 Corersion\Reto 53 coersion\Reto 53 coersion\bin\Debug\netcoreapp3.1\Reto 53 coersion.deps.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 53 Corersion\Reto 53 coersion\Reto 53 coersion\bin\Debug\netcoreapp3.1\Reto 53 coersion.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 53 Corersion\Reto 53 coersion\Reto 53 coersion\bin\Debug\netcoreapp3.1\Reto 53 coersion.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 53 Corersion\Reto 53 coersion\Reto 53 coersion\bin\Debug\netcoreapp3.1\Reto 53 coersion.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 53 Corersion\Reto 53 coersion\Reto 53 coersion\bin\Debug\netcoreapp3.1\Reto 53 coersion.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 53 Corersion\Reto 53 coersion\Reto 53 coersion\obj\Debug\netcoreapp3.1\Reto 53 coersion.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 53 Corersion\Reto 53 coersion\Reto 53 coersion\obj\Debug\netcoreapp3.1\Reto 53 coersion.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 53 Corersion\Reto 53 coersion\Reto 53 coersion\obj\Debug\netcoreapp3.1\Reto 53 coersion.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 53 Corersion\Reto 53 coersion\Reto 53 coersion\obj\Debug\netcoreapp3.1\Reto 53 coersion.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 53 Corersion\Reto 53 coersion\Reto 53 coersion\obj\Debug\netcoreapp3.1\Reto 53 coersion.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 53 Corersion\Reto 53 coersion\Reto 53 coersion\obj\Debug\netcoreapp3.1\Reto 53 coersion.genruntimeconfig.cache

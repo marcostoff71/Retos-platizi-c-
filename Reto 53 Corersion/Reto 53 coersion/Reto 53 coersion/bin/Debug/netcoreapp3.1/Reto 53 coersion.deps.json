@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Reto 53 coersion/1.0.0": {
+        "runtime": {
+          "Reto 53 coersion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reto 53 coersion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

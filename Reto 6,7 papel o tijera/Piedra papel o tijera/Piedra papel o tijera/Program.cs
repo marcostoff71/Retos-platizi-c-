@@ -30,7 +30,7 @@ namespace Piedra_papel_o_tijera
                     {
                         opcion = ValidaNum("Seleciona una opcion: ");
 
-                    }while(opcion > 3 || opcion < 1);
+                    }while(opcion < 1||opcion > 3 );
                     jugador1 = opcionSelecionada(opcion);
                     
                         turno = 2;

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Reto 50 validador de contraseñas/1.0.0": {
+        "runtime": {
+          "Reto 50 validador de contraseñas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reto 50 validador de contraseñas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

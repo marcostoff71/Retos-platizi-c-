@@ -1,0 +1,13 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 49 movimiento aleatorio\Reto 49 movimiento aleatorio\bin\Debug\netcoreapp3.1\Reto 49 movimiento aleatorio.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 49 movimiento aleatorio\Reto 49 movimiento aleatorio\bin\Debug\netcoreapp3.1\Reto 49 movimiento aleatorio.deps.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 49 movimiento aleatorio\Reto 49 movimiento aleatorio\bin\Debug\netcoreapp3.1\Reto 49 movimiento aleatorio.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 49 movimiento aleatorio\Reto 49 movimiento aleatorio\bin\Debug\netcoreapp3.1\Reto 49 movimiento aleatorio.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 49 movimiento aleatorio\Reto 49 movimiento aleatorio\bin\Debug\netcoreapp3.1\Reto 49 movimiento aleatorio.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 49 movimiento aleatorio\Reto 49 movimiento aleatorio\bin\Debug\netcoreapp3.1\Reto 49 movimiento aleatorio.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 49 movimiento aleatorio\Reto 49 movimiento aleatorio\obj\Debug\netcoreapp3.1\Reto 49 movimiento aleatorio.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 49 movimiento aleatorio\Reto 49 movimiento aleatorio\obj\Debug\netcoreapp3.1\Reto 49 movimiento aleatorio.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 49 movimiento aleatorio\Reto 49 movimiento aleatorio\obj\Debug\netcoreapp3.1\Reto 49 movimiento aleatorio.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 49 movimiento aleatorio\Reto 49 movimiento aleatorio\obj\Debug\netcoreapp3.1\Reto 49 movimiento aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 49 movimiento aleatorio\Reto 49 movimiento aleatorio\obj\Debug\netcoreapp3.1\Reto 49 movimiento aleatorio.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 49 movimiento aleatorio\Reto 49 movimiento aleatorio\obj\Debug\netcoreapp3.1\Reto 49 movimiento aleatorio.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 49 movimiento aleatorio\Reto 49 movimiento aleatorio\obj\Debug\netcoreapp3.1\Reto 49 movimiento aleatorio.genruntimeconfig.cache

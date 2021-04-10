@@ -1,0 +1,13 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 47 vacas y toros\Reto 47 vacas y toros\Reto 47 vacas y toros\bin\Debug\netcoreapp3.1\Reto 47 vacas y toros.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 47 vacas y toros\Reto 47 vacas y toros\Reto 47 vacas y toros\bin\Debug\netcoreapp3.1\Reto 47 vacas y toros.deps.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 47 vacas y toros\Reto 47 vacas y toros\Reto 47 vacas y toros\bin\Debug\netcoreapp3.1\Reto 47 vacas y toros.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 47 vacas y toros\Reto 47 vacas y toros\Reto 47 vacas y toros\bin\Debug\netcoreapp3.1\Reto 47 vacas y toros.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 47 vacas y toros\Reto 47 vacas y toros\Reto 47 vacas y toros\bin\Debug\netcoreapp3.1\Reto 47 vacas y toros.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 47 vacas y toros\Reto 47 vacas y toros\Reto 47 vacas y toros\bin\Debug\netcoreapp3.1\Reto 47 vacas y toros.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 47 vacas y toros\Reto 47 vacas y toros\Reto 47 vacas y toros\obj\Debug\netcoreapp3.1\Reto 47 vacas y toros.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 47 vacas y toros\Reto 47 vacas y toros\Reto 47 vacas y toros\obj\Debug\netcoreapp3.1\Reto 47 vacas y toros.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 47 vacas y toros\Reto 47 vacas y toros\Reto 47 vacas y toros\obj\Debug\netcoreapp3.1\Reto 47 vacas y toros.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 47 vacas y toros\Reto 47 vacas y toros\Reto 47 vacas y toros\obj\Debug\netcoreapp3.1\Reto 47 vacas y toros.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 47 vacas y toros\Reto 47 vacas y toros\Reto 47 vacas y toros\obj\Debug\netcoreapp3.1\Reto 47 vacas y toros.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 47 vacas y toros\Reto 47 vacas y toros\Reto 47 vacas y toros\obj\Debug\netcoreapp3.1\Reto 47 vacas y toros.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 47 vacas y toros\Reto 47 vacas y toros\Reto 47 vacas y toros\obj\Debug\netcoreapp3.1\Reto 47 vacas y toros.genruntimeconfig.cache

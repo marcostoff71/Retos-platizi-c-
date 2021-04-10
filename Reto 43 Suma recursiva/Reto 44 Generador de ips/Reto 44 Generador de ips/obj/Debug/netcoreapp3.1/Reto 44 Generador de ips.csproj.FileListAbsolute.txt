@@ -1,0 +1,13 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 44 Generador de ips\Reto 44 Generador de ips\bin\Debug\netcoreapp3.1\Reto 44 Generador de ips.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 44 Generador de ips\Reto 44 Generador de ips\bin\Debug\netcoreapp3.1\Reto 44 Generador de ips.deps.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 44 Generador de ips\Reto 44 Generador de ips\bin\Debug\netcoreapp3.1\Reto 44 Generador de ips.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 44 Generador de ips\Reto 44 Generador de ips\bin\Debug\netcoreapp3.1\Reto 44 Generador de ips.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 44 Generador de ips\Reto 44 Generador de ips\bin\Debug\netcoreapp3.1\Reto 44 Generador de ips.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 44 Generador de ips\Reto 44 Generador de ips\bin\Debug\netcoreapp3.1\Reto 44 Generador de ips.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 44 Generador de ips\Reto 44 Generador de ips\obj\Debug\netcoreapp3.1\Reto 44 Generador de ips.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 44 Generador de ips\Reto 44 Generador de ips\obj\Debug\netcoreapp3.1\Reto 44 Generador de ips.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 44 Generador de ips\Reto 44 Generador de ips\obj\Debug\netcoreapp3.1\Reto 44 Generador de ips.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 44 Generador de ips\Reto 44 Generador de ips\obj\Debug\netcoreapp3.1\Reto 44 Generador de ips.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 44 Generador de ips\Reto 44 Generador de ips\obj\Debug\netcoreapp3.1\Reto 44 Generador de ips.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 44 Generador de ips\Reto 44 Generador de ips\obj\Debug\netcoreapp3.1\Reto 44 Generador de ips.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 43 Suma recursiva\Reto 44 Generador de ips\Reto 44 Generador de ips\obj\Debug\netcoreapp3.1\Reto 44 Generador de ips.genruntimeconfig.cache

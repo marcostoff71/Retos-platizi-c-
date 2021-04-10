@@ -1,0 +1,13 @@
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 52 Funciones y numero binarios\Reto 52NumeroBinarios\Reto 52NumeroBinarios\bin\Debug\netcoreapp3.1\Reto 52NumeroBinarios.exe
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 52 Funciones y numero binarios\Reto 52NumeroBinarios\Reto 52NumeroBinarios\bin\Debug\netcoreapp3.1\Reto 52NumeroBinarios.deps.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 52 Funciones y numero binarios\Reto 52NumeroBinarios\Reto 52NumeroBinarios\bin\Debug\netcoreapp3.1\Reto 52NumeroBinarios.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 52 Funciones y numero binarios\Reto 52NumeroBinarios\Reto 52NumeroBinarios\bin\Debug\netcoreapp3.1\Reto 52NumeroBinarios.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 52 Funciones y numero binarios\Reto 52NumeroBinarios\Reto 52NumeroBinarios\bin\Debug\netcoreapp3.1\Reto 52NumeroBinarios.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 52 Funciones y numero binarios\Reto 52NumeroBinarios\Reto 52NumeroBinarios\bin\Debug\netcoreapp3.1\Reto 52NumeroBinarios.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 52 Funciones y numero binarios\Reto 52NumeroBinarios\Reto 52NumeroBinarios\obj\Debug\netcoreapp3.1\Reto 52NumeroBinarios.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 52 Funciones y numero binarios\Reto 52NumeroBinarios\Reto 52NumeroBinarios\obj\Debug\netcoreapp3.1\Reto 52NumeroBinarios.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 52 Funciones y numero binarios\Reto 52NumeroBinarios\Reto 52NumeroBinarios\obj\Debug\netcoreapp3.1\Reto 52NumeroBinarios.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 52 Funciones y numero binarios\Reto 52NumeroBinarios\Reto 52NumeroBinarios\obj\Debug\netcoreapp3.1\Reto 52NumeroBinarios.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 52 Funciones y numero binarios\Reto 52NumeroBinarios\Reto 52NumeroBinarios\obj\Debug\netcoreapp3.1\Reto 52NumeroBinarios.dll
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 52 Funciones y numero binarios\Reto 52NumeroBinarios\Reto 52NumeroBinarios\obj\Debug\netcoreapp3.1\Reto 52NumeroBinarios.pdb
+C:\Users\lenovo\Cursos\C#\Retos platzi\Reto 52 Funciones y numero binarios\Reto 52NumeroBinarios\Reto 52NumeroBinarios\obj\Debug\netcoreapp3.1\Reto 52NumeroBinarios.genruntimeconfig.cache

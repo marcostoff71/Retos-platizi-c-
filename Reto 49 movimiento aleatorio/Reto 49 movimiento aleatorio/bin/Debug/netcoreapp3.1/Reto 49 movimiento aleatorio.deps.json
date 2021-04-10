@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Reto 49 movimiento aleatorio/1.0.0": {
+        "runtime": {
+          "Reto 49 movimiento aleatorio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reto 49 movimiento aleatorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
